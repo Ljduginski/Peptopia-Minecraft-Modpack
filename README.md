@@ -6,11 +6,17 @@ And don't forget the website http://peptopia.asuscomm.com/
 
 
 TO-DO
+
 -Server login message
+
 -Document server/client configs
+
 -Research Permissions plugins and FTButilities
+
 -Set default keybindings for clients
+
 -Cleanup the recipe scripts
+
 
 
 
