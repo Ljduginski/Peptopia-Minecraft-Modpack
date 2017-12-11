@@ -5,7 +5,7 @@ This Modpack focuses on exploration and city building. It has Galaticraft for sp
 And don't forget the website http://peptopia.asuscomm.com/
 
 
-TO-DO
+#TO-DO
 -Server login message
 -Document server/client configs
 -Research Permissions plugins and FTButilities
